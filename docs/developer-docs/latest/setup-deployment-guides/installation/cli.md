@@ -57,6 +57,10 @@ yarn create strapi-app my-project
 
 </code-group>
 
+::: Note
+You can name your project folder whatever you want instead of `my-project` above. Whatever you call it, the project is placed and lives in your home directory.
+:::
+
 2. Choose an installation type:
 
    - `Quickstart (recommended)`, which uses the default database (SQLite)
@@ -72,7 +76,7 @@ yarn create strapi-app my-project
 
 ## Running Strapi
 
-To start the Strapi application, run the following command in the project folder:
+To start the Strapi application, run the following command in your project folder created during the "Creating a Strapi project" step:
 
 <code-group>
 
